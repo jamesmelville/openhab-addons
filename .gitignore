@@ -22,7 +22,11 @@ bundles/**/src/main/history
 features/**/src/main/history
 features/**/src/main/feature
 
-.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
 .factorypath
 pom.xml.versionsBackup
 .openapi-generator
